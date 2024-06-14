@@ -60,7 +60,7 @@ Following inferences can be drawn from the dashboard;
 
       a) Average of salary hike of males- 15.22
       b) Average of salary hike of females- 15.20
- ### [3] Some other insights
+ ### [4] Some other insights
  
  ### salary slab
  
